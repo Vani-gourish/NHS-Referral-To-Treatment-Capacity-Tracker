@@ -1,6 +1,7 @@
 # 🏥 NHS Referral-To-Treatment(RTT) Performance & Capacity Tracker
 
-![RTT Performance & Capacity Tracker Main](Screenshots\NHS RTT Performance_Capacity Tracker.png)
+![RTT Performance & Capacity Tracker Main](/Screenshots/NHS%20RTT%20Performance_Capacity%20Tracker.png)
+
 
 ## 📌 Project Overview
 The National Health Service (NHS) aims to start treatment for patients within 18 weeks of referral. This end-to-end Power BI application was developed to track Referral to Treatment (RTT) performance, identify systemic bottlenecks across medical specialties, and highlight hospital trusts operating critically below national benchmarks.
